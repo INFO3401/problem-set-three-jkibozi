@@ -158,4 +158,4 @@ for row in range(len(myLoanData.index)):
 
 computePDF('SeriousDlqin2yrs',testDF)
 
-# It skews towards 0.
+print("Q13 Answer: The majority of the distribution is between 0.050 and 0.08. With two major peaks and a valley between them. The distribution also ranges from under -0.025 to about 0.125.")
