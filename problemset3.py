@@ -157,3 +157,5 @@ for row in range(len(myLoanData.index)):
 # 13. Plot the distribution of risks using your computePDF function. What do you notice about this distribution?
 
 computePDF('SeriousDlqin2yrs',testDF)
+
+# It skews towards 0.
